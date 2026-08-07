@@ -1,0 +1,21 @@
+# Executables
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Dev-C++
+*.layout
+
+# Code::Blocks
+*.depend
+
+# Temporary files
+*.tmp
+*.log
