@@ -2,7 +2,7 @@
 using namespace std;
 void greet(){
     cout<<"Hey"<<endl;
-    greet();
+    greet();     // infinte output 
 }
 int main(){
     greet();
