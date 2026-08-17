@@ -6,8 +6,7 @@ int main(){
     int brr[n] ;    
 
     for (int i = 0 ; i<n ; i++){
-        int j = n-1-i;
-        brr[i] = arr[j];
+        brr[i] = arr[n-1-i];
     }
 
     for (int i = 0 ; i<n ; i++){
