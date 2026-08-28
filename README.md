@@ -6,6 +6,8 @@ This repository contains my journey of learning C++, from basic concepts to adva
 
 > 📈 Currently learning and improving every day.
 
+![Profile Views](https://komarev.com/ghpvc/?username=amishra1510&label=Profile%20Views&color=0e75b6&style=flat)
+
 ## 🎯 Goals
 
 - Strengthen C++ fundamentals
